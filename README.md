@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">👋 Hello World, I'm xXTeinsXx!</h1>
+<h3 align="center">I'm a Dual Enrollment student and I enjoy coding and STEM.</h3>
+
 My Nickname is Bry and i like to program.
 I am currently a dual enrollment student fully enrolled at State College of Florida.
 I like cyber security and programing. It's one of my passions and i love to compete in CTFs or other competitions.
