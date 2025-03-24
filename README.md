@@ -1,5 +1,11 @@
 ## Hi there 👋
+My Nickname is Bry and i like to program.
+I am currently a dual enrollment student fully enrolled at State College of Florida.
+I like cyber security and programing. It's one of my passions and i love to compete in CTFs or other competitions.
+I am currently working on getting my A.A and just graduating in general.
 
+
+Rah idk what to add just these bulletpoints. I'll further you later.
 <!--
 **xXTeinsXx/xXTeinsXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
