@@ -39,7 +39,7 @@ I treat coding projects and security challenges like boss fights —
 
 ### 📫 How to Reach Me
 
-- ![Discord Logo](https://emoji.gg/assets/media/emoji/discord-logo-5.png) Discord: _teins_
+- ![Discord Logo]([https://emoji.gg/assets/media/emoji/discord-logo-5.png](https://emoji.gg/pack/5041-discord-logo)) Discord: _teins_
 - 🌐 Portfolio Website (coming soon!)
 - 💬 Feel free to reach out for collaboration, questions, or just to chat about tech!
 
