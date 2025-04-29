@@ -39,7 +39,7 @@ I treat coding projects and security challenges like boss fights —
 
 ### 📫 How to Reach Me
 
-- ![image](https://github.com/user-attachments/assets/645ceab7-34ff-401d-9200-320600e27553) Discord: _teins_
+- ![image](https://github.com/user-attachments/assets/645ceab7-34ff-401d-9200-320600e27553) Discord: "_teins_"
 - 🌐 Portfolio Website (coming soon!)
 - 💬 Feel free to reach out for collaboration, questions, or just to chat about tech!
 
